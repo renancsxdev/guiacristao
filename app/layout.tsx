@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Detalhes do Quiz Critão para Pais',
+  title: 'Guia para Pais',
   
 }
 
